@@ -1,0 +1,5 @@
+print(type(5))
+print(type(3.5))
+print(type('palavra'))
+print(type(False))
+print(type(True))
