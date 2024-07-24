@@ -1,0 +1,4 @@
+Carro, Km, Ano, Cor
+Civic, 20000, 2022, Branco
+Jetta, 300000, 2010, Preto
+Corolla, 75000, 2019, Prata
